@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <Data>
+    <Row>
+      <Related_RICs>Related RICs</Related_RICs>
+      <Asset_ID>Asset ID</Asset_ID>
+      <Attribution>Attribution</Attribution>
+      <Language>Language</Language>
+      <Quote_ID>Quote ID</Quote_ID>
+      <Reuters_Editorial_RIC>Reuters Editorial RIC</Reuters_Editorial_RIC>
+      <Issuer_OrgID>Issuer OrgID</Issuer_OrgID>
+      <PNAC>PNAC</PNAC>
+      <Topics>Topics</Topics>
+      <Exchange_Code>Exchange Code</Exchange_Code>
+      <Ticker>Ticker</Ticker>
+      <Headline>Headline</Headline>
+      <Story_Body>Story Body</Story_Body>
+      <Story_Date_Time>Story Date Time</Story_Date_Time>
+      <Take_Date_Time>Take Date Time</Take_Date_Time>
+      <Products>Products</Products>
+      <Unique_Story_Index>Unique Story Index</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code>TRBC Economic Sector Code</TRBC_Economic_Sector_Code>
+      <TRBC_Business_Sector_Code>TRBC Business Sector Code</TRBC_Business_Sector_Code>
+      <TRBC_Industry_Group_Code>TRBC Industry Group Code</TRBC_Industry_Group_Code>
+      <TRBC_Industry_Code>TRBC Industry Code</TRBC_Industry_Code>
+    </Row>
+    <Row>
+      <Related_RICs />
+      <Asset_ID />
+      <Attribution>RTRS</Attribution>
+      <Language>ja</Language>
+      <Quote_ID />
+      <Reuters_Editorial_RIC />
+      <Issuer_OrgID />
+      <PNAC>nL4N1EH24O</PNAC>
+      <Topics>AMERS ASIA EU EUROP EZC FI FRX GEN INTAG JDOM JFOR JLN JP MKTREP NORD POL REP US WEU</Topics>
+      <Exchange_Code />
+      <Ticker />
+      <Headline>BUZZ-フィンランド国会、ＥＵ離脱の審議は行わず　必要な署名集まらず</Headline>
+      <Story_Body>    ［２２日　ロイター］ - 
+    BUZZ-フィンランド国会、ＥＵ離脱の審議は行わず　必要な署名集まらず
+    
+    ＊フィンランドでは、欧州連合（ＥＵ）離脱の是非を問う国民投票を求める請願書が出されていたが、必要な５万人分の署名が期限の２１日までに集まらず、国会で審議は行われないことになった。
+    ＊請願書は、フィン人党の青年部が今年６月にブレグジット決定を受けて呼び掛け。
+    ＊今年４月には５万人以上の署名が集まったため、国会がユーロ圏離脱に関する審議を行っていた。
+    ＊ＥＵに加盟する北欧３カ国のうち、フィンランドはユーロ圏に加盟しているが、デンマークとスウェーデンは非加盟。
+    
+    ＊BUZZはコメント・分析サービスで、筆者の個人的見解に基づいて書かれています。
+    
+    ※英文参照番号[nIFRbPG4y6]（契約の内容によっては英文がご覧いただけない場合もあります）</Story_Body>
+      <Story_Date_Time>12/22/2016 06:16:35</Story_Date_Time>
+      <Take_Date_Time>12/22/2016 06:16:35</Take_Date_Time>
+      <Products>JWM RJN RS RSS</Products>
+      <Unique_Story_Index>20161222061635nL4N1EH24O</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code />
+      <TRBC_Business_Sector_Code />
+      <TRBC_Industry_Group_Code />
+      <TRBC_Industry_Code />
+    </Row>
+    <Row>
+      <Related_RICs>.N225 .TOPX 6981.T 7201.T 7203.T 7267.T</Related_RICs>
+      <Asset_ID />
+      <Attribution>RTRS</Attribution>
+      <Language>ja</Language>
+      <Quote_ID />
+      <Reuters_Editorial_RIC />
+      <Issuer_OrgID />
+      <PNAC>nL4N1EH251</PNAC>
+      <Topics>ASIA AUTO BISV CARM CMPNY CYCS ELCO EXCA FINS INDG INDS INVS JDOM JLN JP MACH MKTREP REP STX</Topics>
+      <Exchange_Code />
+      <Ticker />
+      <Headline>東京株式市場・大引け＝小幅続落、持ち高整理の売り優勢　大引け前に下げ幅縮める</Headline>
+      <Story_Body>    ［東京　２２日　ロイター］ - 
+ 日経平均&amp;lt;.N225&amp;gt;                           
+ 終値　　　　　       19427.67             -16.82
+ 寄り付き　　　       19396.85             
+ 安値／高値　　       19327.51─19427.67   
+                                                          
+ ＴＯＰＩＸ&amp;lt;.TOPX&amp;gt;                         
+ 終値　　　　　　     1543.82              -1.12
+ 寄り付き　　　　     1542.31              
+ 安値／高値　　　     1535.82─1543.82     
+                                                          
+ 東証出来高(万株)     187138               
+ 東証売買代金(億円)   21590.80             
+    
+東京株式市場で日経平均は小幅続落。前日の米国株安や円安進行の一服などを背景に、序
+盤から売り優勢の展開だった。前日比で一時１１６円安まで値下がりした後は、下げ渋る
+動きとなった。３連休前の持ち高整理の売りと押し目買いが交錯する中、大引けにかけて
+下げ幅を縮小。この日の高値で取引を終了した。
+    
+    ＴＯＰＩＸ、ＪＰＸ日経４００&amp;lt;.JPXNK400&amp;gt;も小幅続落となったが、ともに高値引け
+だった。東証１部売買代金は２兆１５９０億円と前日比で約１０％減。業種別ではその他
+製品、保険、銀行など金融セクターや精密機器などが軟調。金属製品、繊維、石油関連が
+買われた。
+    
+    日経平均に対してはファーストリテイリング&amp;lt;9983.T&amp;gt;（前日比１．１８％安）、オリ
+ンパス&amp;lt;7733.T&amp;gt;（同５．０８％安）の２銘柄が、計約２８円の押し下げ要因となっている
+。
+    
+    外需関連ではトヨタ&amp;lt;7203.T&amp;gt;は値下がりしたものの、ホンダ&amp;lt;7267.T&amp;gt;、日産自動車&amp;lt;7
+201.T&amp;gt;、村田製作所&amp;lt;6981.T&amp;gt;などが上昇。「商いが少ないながらも動きの鈍かった自動車
+の一部が買われており、相場に乗り遅れた投資家の買い意欲を示している」（内藤証券・
+投資調査部長の田部井美彦氏）との声が出ている。
+    
+    個別銘柄では大倉工業&amp;lt;4221.T&amp;gt;が年初来高値を更新。２１日に発表した業績・配当予
+想の上方修正を材料視した。自社株買いを発表したナガセ&amp;lt;9733.T&amp;gt;もしっかり。
+    
+    半面、小野薬品工業&amp;lt;4528.T&amp;gt;が軟調。新型のがん治療薬「オプジーボ」の薬価が来年
+２月から５０％引き下げられることなどを受け、２１日に２０１７年３月期の業績予想を
+下方修正すると発表したことが嫌気された。
+    
+    東証１部騰落数は、値上がり８５２銘柄に対し、値下がりが９９０銘柄、変わらずが
+１５９銘柄だった。
+    
+
+ (長田善行)
+ ((※　yoshiyuki.osada@thomsonreuters.com; 03-6441-1888; Reuters Messaging:
+yoshiyuki.osada.reuters.com@reuters.net))</Story_Body>
+      <Story_Date_Time>12/22/2016 06:20:44</Story_Date_Time>
+      <Take_Date_Time>12/22/2016 06:20:44</Take_Date_Time>
+      <Products>JWM RJN RS RSS</Products>
+      <Unique_Story_Index>20161222062044nL4N1EH251</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code />
+      <TRBC_Business_Sector_Code />
+      <TRBC_Industry_Group_Code />
+      <TRBC_Industry_Code />
+    </Row>
+    <Row>
+      <Related_RICs>.N225 .TOPX 6981.T 7201.T 7203.T 7267.T</Related_RICs>
+      <Asset_ID />
+      <Attribution>RTRS</Attribution>
+      <Language>ja</Language>
+      <Quote_ID />
+      <Reuters_Editorial_RIC />
+      <Issuer_OrgID />
+      <PNAC>nL4N1EH251</PNAC>
+      <Topics>ASIA AUTO BISV CARM CMPNY CYCS ELCO EXCA FINS INDG INDS INVS JDOM JLN JP MACH MKTREP REP STX</Topics>
+      <Exchange_Code />
+      <Ticker />
+      <Headline>東京株式市場・大引け＝小幅続落、持ち高整理の売り優勢　大引け前に下げ幅縮める</Headline>
+      <Story_Body>    ［東京　２２日　ロイター］ - 
+ 日経平均&amp;lt;.N225&amp;gt;                           
+ 終値　　　　　       19427.67             -16.82
+ 寄り付き　　　       19396.85             
+ 安値／高値　　       19327.51─19427.67   
+                                                          
+ ＴＯＰＩＸ&amp;lt;.TOPX&amp;gt;                         
+ 終値　　　　　　     1543.82              -1.12
+ 寄り付き　　　　     1542.31              
+ 安値／高値　　　     1535.82─1543.82     
+                                                          
+ 東証出来高(万株)     187138               
+ 東証売買代金(億円)   21590.80             
+    
+東京株式市場で日経平均は小幅続落。前日の米国株安や円安進行の一服などを背景に、序
+盤から売り優勢の展開だった。前日比で一時１１６円安まで値下がりした後は、下げ渋る
+動きとなった。３連休前の持ち高整理の売りと押し目買いが交錯する中、大引けにかけて
+下げ幅を縮小。この日の高値で取引を終了した。
+    
+    ＴＯＰＩＸ、ＪＰＸ日経４００&amp;lt;.JPXNK400&amp;gt;も小幅続落となったが、ともに高値引け
+だった。東証１部売買代金は２兆１５９０億円と前日比で約１０％減。業種別ではその他
+製品、保険、銀行など金融セクターや精密機器などが軟調。金属製品、繊維、石油関連が
+買われた。
+    
+    日経平均に対してはファーストリテイリング&amp;lt;9983.T&amp;gt;（前日比１．１８％安）、オリ
+ンパス&amp;lt;7733.T&amp;gt;（同５．０８％安）の２銘柄が、計約２８円の押し下げ要因となっている
+。
+    
+    外需関連ではトヨタ&amp;lt;7203.T&amp;gt;は値下がりしたものの、ホンダ&amp;lt;7267.T&amp;gt;、日産自動車&amp;lt;7
+201.T&amp;gt;、村田製作所&amp;lt;6981.T&amp;gt;などが上昇。「商いが少ないながらも動きの鈍かった自動車
+の一部が買われており、相場に乗り遅れた投資家の買い意欲を示している」（内藤証券・
+投資調査部長の田部井美彦氏）との声が出ている。
+    
+    個別銘柄では大倉工業&amp;lt;4221.T&amp;gt;が年初来高値を更新。２１日に発表した業績・配当予
+想の上方修正を材料視した。自社株買いを発表したナガセ&amp;lt;9733.T&amp;gt;もしっかり。
+    
+    半面、小野薬品工業&amp;lt;4528.T&amp;gt;が軟調。新型のがん治療薬「オプジーボ」の薬価が来年
+２月から５０％引き下げられることなどを受け、２１日に２０１７年３月期の業績予想を
+下方修正すると発表したことが嫌気された。
+    
+    東証１部騰落数は、値上がり８５２銘柄に対し、値下がりが９９０銘柄、変わらずが
+１５９銘柄だった。
+    
+
+ (長田善行)
+ ((※　yoshiyuki.osada@thomsonreuters.com; 03-6441-1888; Reuters Messaging:
+yoshiyuki.osada.reuters.com@reuters.net))
+ 
+((    株式関連指標の索引ページ（日本語表示）&amp;lt;JPN/EQ&amp;gt;
+    株式関連指標の索引ページ（英語表示）&amp;lt;JPEQUITY01&amp;gt;
+    
+    東証第１部出来高上位３０傑&amp;lt;.AV.T&amp;gt;
+    東証第１部売買代金上位３０傑&amp;lt;.AM.T&amp;gt;
+    
+    東証第１部値上がり率上位３０傑&amp;lt;.PG.T&amp;gt;
+    東証第１部値下がり率上位３０傑&amp;lt;.PL.T&amp;gt;
+    東証第１部値上がり幅上位３０傑&amp;lt;.NG.T&amp;gt;
+    東証第１部値下がり幅上位３０傑&amp;lt;.NL.T&amp;gt;
+    
+    ジャスダック出来高上位３０傑&amp;lt;.AVJ.T&amp;gt;
+    ジャスダック売買代金上位３０傑&amp;lt;.AMJ.T&amp;gt;
+    
+    ジャスダック値上がり率上位３０傑&amp;lt;.PGJ.T&amp;gt;
+    ジャスダック値下がり率上位３０傑&amp;lt;.PLJ.T&amp;gt;
+    ジャスダック値上がり幅上位３０傑&amp;lt;.NGJ.T&amp;gt;
+    ジャスダック値下がり幅上位３０傑&amp;lt;.NLJ.T&amp;gt;
+    
+    日経平均株価&amp;lt;.N225&amp;gt;
+    ＴＯＰＩＸ（東証株価指数）&amp;lt;.TOPX&amp;gt;
+    ＴＯＰＩＸ　ＣＯＲＥ３０&amp;lt;.TOPXC&amp;gt;
+    ＪＰＸ日経インデックス４００&amp;lt;.JPXNK400&amp;gt;    
+    日経ジャスダック平均株価&amp;lt;.NOTC&amp;gt;
+    東証マザーズ指数&amp;lt;.MTHR&amp;gt;
+    日経２２５先物&amp;lt;0#JNI:&amp;gt;
+    ＳＧＸ日経２２５先物&amp;lt;0#SSI:&amp;gt;
+    ＴＯＰＩＸ先物&amp;lt;0#JTI:&amp;gt;
+    日経２２５オプション&amp;lt;0#JNI*.OS&amp;gt;
+    
+    大阪取引所有価証券オプションのメニューページ&amp;lt;JP/STOCKOP01&amp;gt;))</Story_Body>
+      <Story_Date_Time>12/22/2016 06:20:44</Story_Date_Time>
+      <Take_Date_Time>12/22/2016 06:20:44</Take_Date_Time>
+      <Products>JWM RJN RS RSS</Products>
+      <Unique_Story_Index>20161222062044nL4N1EH251</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code />
+      <TRBC_Business_Sector_Code />
+      <TRBC_Industry_Group_Code />
+      <TRBC_Industry_Code />
+    </Row>
+    <Row>
+      <Related_RICs />
+      <Asset_ID />
+      <Attribution>RTRS</Attribution>
+      <Language>ja</Language>
+      <Quote_ID />
+      <Reuters_Editorial_RIC />
+      <Issuer_OrgID />
+      <PNAC>nL4N1EH20G</PNAC>
+      <Topics>ASIA BISV DRV EXCA FINS INVS JDOM JLN JP STX</Topics>
+      <Exchange_Code />
+      <Ticker />
+      <Headline>12月第4週の日経ウィークリーオプションＳＱは1万9396円28銭＝大阪取引所</Headline>
+      <Story_Body>    ［東京　２２日　ロイター］ - 大阪取引所は２２日、１２月第４週限の日経平均オプションの最終決済に関わるＳＱ（特別清算指数）値が１万９３９６円２８銭になったと発表した。</Story_Body>
+      <Story_Date_Time>12/22/2016 06:22:14</Story_Date_Time>
+      <Take_Date_Time>12/22/2016 06:22:14</Take_Date_Time>
+      <Products>JWM RJN RS RSS</Products>
+      <Unique_Story_Index>20161222062214nL4N1EH20G</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code />
+      <TRBC_Business_Sector_Code />
+      <TRBC_Industry_Group_Code />
+      <TRBC_Industry_Code />
+    </Row>
+    <Row>
+      <Related_RICs>9843.T</Related_RICs>
+      <Asset_ID />
+      <Attribution>RTRS</Attribution>
+      <Language>ja</Language>
+      <Quote_ID />
+      <Reuters_Editorial_RIC />
+      <Issuer_OrgID />
+      <PNAC>nL4N1EB2QG</PNAC>
+      <Topics>ASIA BACT CMPNY CYCS JDOM JLN JP RES RESF RHOM RSPC SHOP SHOPAL</Topics>
+      <Exchange_Code />
+      <Ticker />
+      <Headline>ニトリＨＤ、3―11月期は28％営業増益　都心出店で顧客層拡大　&lt;9843.T&gt;</Headline>
+      <Story_Body>    ［東京　２２日　ロイター］ - ニトリホールディングス &amp;lt;9843.T&amp;gt;は２２日、２０１６年３―１１月期の連結営業利益が前年同期比２８．３％増の７０２億円になったと発表した。既存店売上高の好調に加え、積極的に進めている都心部への新規出店増による顧客層の拡大も寄与している。通期見通しは据え置いた。
+    
+    ３―１１月期の既存店売上高は同７．３％増と好調に推移している。客単価は横ばい圏ながら、客数の伸びが支えている。
+    吸湿発熱素材を使用した「Ｎウォーム」シリーズは、機能向上により、前年同期を上回る売り上げとなっている。また、価格帯別のブランド構築を進めており、品ぞろえ拡充により、低価格ブランドの「DAY Value」も好調に推移している。
+    
+    新規出店は「新宿タカシマヤタイムズスクエア店」や「環八用賀店」など、都心部へ積極的な出店を行っている。こうした都心部への出店により、客層の拡大につながっているという。１２月９日時点の国内店舗数は４２３店舗、海外は台湾、米国、中国で計４２店舗を展開している。
+    
+    ２０１７年２月期の連結売上高は前年比９．１％増の５０００億円、営業利益は同８．２％増の７９０億円の見通しを据え置いた。トムソン・ロイターのスターマイン調査がまとめたアナリスト１３人の営業利益予測の平均値は８５１億円となっている。
+
+ (清水律子)
+ ((※　ritsuko.shimizu@thomsonreuters.com; 03-6441-1824; Reuters Messaging:
+ritsuko.shimizu.thomsonreuters.com@reuters.net))</Story_Body>
+      <Story_Date_Time>12/22/2016 06:24:25</Story_Date_Time>
+      <Take_Date_Time>12/22/2016 06:24:25</Take_Date_Time>
+      <Products>JWM RJN RSS</Products>
+      <Unique_Story_Index>20161222062425nL4N1EB2QG</Unique_Story_Index>
+      <TRBC_Economic_Sector_Code />
+      <TRBC_Business_Sector_Code />
+      <TRBC_Industry_Group_Code />
+      <TRBC_Industry_Code />
+    </Row>
+  </Data>
+</Report>

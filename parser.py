@@ -8,7 +8,6 @@ import os
 import xml.etree.ElementTree as ET
 
 # print(os.getcwd())
-
 os.chdir(r"C:\Users\u6040067\Documents\GitHub\MyTextMining")
 tree = ET.parse('test_to_read.xml')
 root = tree.getroot()
@@ -26,4 +25,11 @@ for child in root:
 # Itereate to print a specific tagged values
 for neighbor in root.iter('neighbor'):
     print(neighbor.attrib)
-    
+
+# DS Japanese News ----------------------------------------
+treeNewsJ = ET.parse('DSS_ReutersNews_JP_20161222.xml')
+rootNewsJ = treeNewsJ.getroot()
+rootNewsJ.tag
+
+for headline in rootNewsJ.iter('Headline'):
+    print(headline.tag)
